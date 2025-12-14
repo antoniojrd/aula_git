@@ -59,7 +59,7 @@ Você pode incluir links e imagens.
 Imagem:
 
 Você usaria a mesma sintaxe do link, mas com um ponto de exclamação no início (![]()):
-![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFz5fYgrepcP696Zm4ZtlldGLC6hEr83HUhDcUWJoyK2l-Rqp2YrkMskunDA_R5Hy-722xpQrOgG2-ZhAuOhuQ1aBRtwaf4jp3tfRNlNQKmg)
+![](https://i.pinimg.com/736x/1d/8b/60/1d8b6097589873bb73cd3c90b9278aea.jpg)
 
 
 Citação (Blockquote)
